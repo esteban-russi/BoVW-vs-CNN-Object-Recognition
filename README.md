@@ -1,6 +1,6 @@
 # BoVW vs. CNN for Object Recognition
 
-This repository contains a comparative analysis of a traditional Bag of Visual Words (BoVW) model and a deep learning-based Convolutional Neural Network (CNN) for object recognition tasks. The project evaluates their performance, robustness, and suitability for different visual challenges using subsets of the Caltech256 and Human Portraits datasets.
+This repository contains a comparative analysis of a traditional Bag of Visual Words (BoVW) model and a deep learning-based Convolutional Neural Network (CNN) for object recognition tasks. The project evaluates their performance, robustness, and suitability for image classification tasks using subsets of the Caltech256 and Human Portraits datasets.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
