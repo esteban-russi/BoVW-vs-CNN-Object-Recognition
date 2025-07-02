@@ -2,8 +2,6 @@
 
 This repository contains a comparative analysis of a traditional Bag of Visual Words (BoVW) model and a deep learning-based Convolutional Neural Network (CNN) for object recognition tasks. The project evaluates their performance, robustness, and suitability for different visual challenges using subsets of the Caltech256 and Human Portraits datasets.
 
-The code is implemented in Python using Scikit-learn for the BoVW pipeline and PyTorch for the CNN.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
