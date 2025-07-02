@@ -15,7 +15,6 @@ The code is implemented in Python using Scikit-learn for the BoVW pipeline and P
 - [Performance Results](#performance-results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 - [Conclusion](#conclusion)
 
 ## Project Overview
