@@ -1,0 +1,14 @@
+# This file lists the Python packages required to run the project.
+# Install them using the command: pip install -r requirements.txt
+
+datasets
+matplotlib
+numpy
+opencv-contrib-python
+opencv-python-headless
+pandas
+Pillow
+scikit-image
+scikit-learn
+torch
+torchvision
